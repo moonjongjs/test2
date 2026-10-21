@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="B4 YEOJUNG 프리미엄 국내 여행">
+<title>B4 YEOJUNG — Premium Travel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+KR:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/extended.css">
+<link rel="stylesheet" href="css/pages.css"></head>
+<body>
+<header class="topbar">
+  <a class="brand image-brand" href="#home" aria-label="B4 YEOJUNG 홈"><img src="images/brand-logo.png" alt="B4 YEOJUNG" width="2172" height="724"></a>
+  <nav aria-label="주 메뉴"><div class="nav-item"><a href="#destinations">대표관광지</a><div class="dropdown"><a href="#destinations/seoul">서울</a><a href="#destinations/busan">부산</a><a href="#destinations/gangneung">강릉</a><a href="#destinations/jeju">제주</a></div></div><div class="nav-item"><a href="#courses">여행코스</a><div class="dropdown"><a href="#courses/seoul">서울 코스</a><a href="#courses/busan">부산 코스</a><a href="#courses/gangneung">강릉 코스</a><a href="#courses/jeju">제주 코스</a></div></div><div class="nav-item"><a href="#food">먹거리</a><div class="dropdown"><a href="#food/seoul/restaurant">맛집</a><a href="#food/seoul/cafe">카페</a></div></div><div class="nav-item"><a href="#games">혜택플레이</a><div class="dropdown"><a href="#games">미니게임</a><a href="#coupons">내쿠폰함</a></div></div><div class="nav-item"><a href="#events">이벤트정보</a><div class="dropdown"><a href="#events">티켓 · 행사 · 동반 할인</a></div></div><div class="nav-item"><a href="#coupons" id="walletLink">내쿠폰함</a></div></nav>
+  <div class="auth-actions" aria-label="회원 메뉴">
+    <a class="auth-login-link" href="#login">로그인</a>
+    <a class="auth-signup-link" href="#signup">회원가입</a>
+    <span class="member-menu" hidden><strong class="member-name"></strong><button type="button" class="logout-button">로그아웃</button></span>
+  </div>
+</header>
+<main id="home"><div id="homeView">
+<section class="hero">
+  <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="images/busan.png" aria-hidden="true"><source src="video/타임랩스.mp4" type="video/mp4"></video><div class="hero-overlay"></div>
+  <div class="hero-copy"><p class="eyebrow">B4 YEOJUNG PREMIUM TRAVEL</p><h1>지금, 가장 특별한<br>여행을 시작하세요.</h1><p class="sub">일상 속 특별한 순간, B4 YEOJUNG이 함께합니다.</p><a class="pill" href="#destinations">여행 상품 보기 <b>→</b></a></div>
+  
+</section>
+<section class="destinations" id="destinations">
+  <div class="section-head"><div><p class="kicker">FEATURED DESTINATIONS</p><h2>오늘, 어디로 떠날까요?</h2><p class="muted">지금 가장 인기 있는 국내 여행지</p></div><a class="all" href="#destinations">전체보기　→</a></div>
+  <div class="city-grid">
+    <a class="city-card" href="#destinations/seoul"><img src="images/seoul.png" alt="서울의 야경"><span class="city-info"><strong>서울</strong><small>도심 속 특별한 하루</small></span><i>↗</i></a>
+    <a class="city-card" href="#destinations/busan"><img src="images/busan.png" alt="부산 바다와 도시"><span class="city-info"><strong>부산</strong><small>바다와 함께하는 낭만</small></span><i>↗</i></a>
+    <a class="city-card" href="#destinations/gangneung"><img src="images/gangneung.png" alt="강릉 해안"><span class="city-info"><strong>강릉</strong><small>바다와 커피, 그리고 낭만</small></span><i>↗</i></a>
+    <a class="city-card" href="#destinations/jeju"><img src="images/jeju.png" alt="제주도 바다와 초원"><span class="city-info"><strong>제주도</strong><small>자연이 선물한 힐링</small></span><i>↗</i></a>
+    <aside class="discover"><span>✧</span><p>Discover<br>Korea’s<br>Beauty</p><b>⟵</b></aside>
+  </div>
+  <div class="feature-grid" id="features">
+    <article class="feature premium"><img src="images/busan.png" alt=""><div><p class="kicker">PRIVATE TRAVEL</p><h2>여유로운 동선,<br>취향을 담은 여행</h2><p>가까운 명소와 먹거리를 연결해 하루를 계획하세요.</p><a class="pill" href="#courses">추천 코스 둘러보기　→</a></div></article>
+    <article class="feature planner-card"><img src="images/places/seoul-17.png" alt="어니언 안국의 실제 카페 풍경"><div><p class="kicker">HIDDEN LOCAL GEMS</p><h3>나만 알고 싶은<br>숨겨진 핫플레이스</h3><p>골목 속 카페와 맛집에서 나만의 취향을 찾아보세요.</p><a class="pill" href="#food/seoul/cafe">먹거리 보러가기 →</a></div></article>
+    <article class="feature event-card"><div class="gift">♧</div><div><p class="kicker">SPECIAL EVENT</p><h3>쿠폰이 팡팡! 미니게임</h3><p> 게임에서 이기면 할인 쿠폰이? </p><a class="pill" href="#games">미니게임 하러가기　→</a></div></article>
+    <article class="feature ai-card"><div class="robot">◉</div><div><p class="kicker">CUSTOMER CENTER</p><h3>지역별 여행 정보</h3><p>궁금한 여행 정보를<br>지역별로 확인해 보세요.</p><a class="pill" href="#destinations">여행 정보 보기　→</a></div></article>
+  </div>
+</section>
+<section class="planner-section" id="planner"><p class="kicker">YOUR JOURNEY, YOUR WAY</p><h2>다음 여행을 계획해 보세요.</h2><p>서울, 부산, 강릉, 제주에서 나만의 특별한 순간을 찾아보세요.</p><div class="planner-links"><a href="#courses/seoul">서울 여행 ↗</a><a href="#courses/busan">부산 여행 ↗</a><a href="#courses/gangneung">강릉 여행 ↗</a><a href="#courses/jeju">제주 여행 ↗</a></div></section>
+</div><div id="detailView" hidden><section id="pageHeading" class="page-heading"></section><section class="content-section" id="explore"><p class="kicker">LOCAL DISCOVERIES</p><h2>도시의 가장 좋은 순간.</h2><div class="tabs" id="cityTabs"><button data-city="서울" class="selected">서울</button><button data-city="부산" class="">부산</button><button data-city="강릉" class="">강릉</button><button data-city="제주" class="">제주</button></div><div id="placeList" class="listing"></div><p class="note">사진 및 방문 정보 출처는 각 장소의 상세 정보에서 확인할 수 있습니다.</p></section>
+<section class="content-section tinted" id="courses"><p class="kicker">A WELL-PLANNED DAY</p><h2>가까운 곳부터, 여유롭게.</h2><p class="note">같은 권역을 묶은 추천 동선입니다. 교통 상황과 대기 시간을 고려해 조정하세요.</p><div class="tabs" id="courseTabs"><button data-course-city="서울" class="selected">서울</button><button data-course-city="부산" class="">부산</button><button data-course-city="강릉" class="">강릉</button><button data-course-city="제주" class="">제주</button></div><div id="courseList" class="course-list"></div></section>
+<section class="content-section" id="food"><p class="kicker">TASTE THE JOURNEY</p><h2>한 끼의 기억, 한 잔의 여유.</h2><div class="food-controls"><select id="foodCity" aria-label="먹거리 지역"><option>서울</option><option>부산</option><option>강릉</option><option>제주</option></select><div class="tabs" id="kindTabs"><button class="selected" data-kind="맛집">맛집</button><button data-kind="카페">카페</button></div><input id="search" type="search" placeholder="이름 · 동네 · 메뉴 검색" aria-label="먹거리 검색"></div><div id="foodList" class="listing"></div></section>
+<section class="content-section navy" id="games"><p class="kicker">PLAY A LITTLE, TRAVEL MORE</p><div class="section-head"><h2>여행의 즐거움에, 작은 보너스.</h2><button id="wallet">내쿠폰함 <span id="couponCount">0</span> →</button></div><p class="note">여행 전 가볍게 즐기는 12가지 게임. 클리어하면 티켓을 받고 내쿠폰함에서 확인하세요.</p><div class="games-grid" id="gameList"></div></section>
+<section class="content-section" id="events"><p class="kicker">SPECIAL MOMENTS</p><h2>함께 떠나면 더 특별하게.</h2><p class="note">티켓 예매와 지역 행사를 한눈에. 할인 적용 여부와 행사 일정은 공식 홈페이지에서 확인하세요.</p><div id="eventList" class="events-grid"></div></section>
+<section id="couponPage" class="content-section" hidden><p class="kicker">MY COUPONS</p><h2>내쿠폰함</h2><div id="couponList" class="coupon-grid"></div></section></div>
+<section id="authView" class="auth-view" hidden aria-live="polite">
+  <div class="auth-card">
+    <a class="auth-brand" href="#home" aria-label="B4 YEOJUNG 홈"><img src="images/brand-logo.png" alt="B4 YEOJUNG"></a>
+    <div id="loginPanel" class="auth-panel">
+      <p class="kicker">WELCOME BACK</p><h1>로그인</h1><p class="auth-description">여행의 설렘을 다시 이어가세요.</p>
+      <form id="loginForm" novalidate>
+        <label>이메일<input name="email" type="email" autocomplete="email" required placeholder="name@example.com"></label>
+        <label>비밀번호<input name="password" type="password" autocomplete="current-password" required minlength="8" placeholder="8자 이상 입력"></label>
+        <p class="form-message" role="alert"></p><button class="auth-submit" type="submit">로그인</button>
+      </form>
+      <p class="auth-switch">아직 회원이 아니신가요? <a href="#signup">회원가입</a></p>
+    </div>
+    <div id="signupPanel" class="auth-panel" hidden>
+      <p class="kicker">CREATE ACCOUNT</p><h1>회원가입</h1><p class="auth-description">B4 YEOJUNG과 나만의 여행을 시작하세요.</p>
+      <form id="signupForm" novalidate>
+        <label>이름<input name="name" type="text" autocomplete="name" required minlength="2" maxlength="20" placeholder="이름 입력"></label>
+        <label>이메일<input name="email" type="email" autocomplete="email" required placeholder="name@example.com"></label>
+        <label>비밀번호<input name="password" type="password" autocomplete="new-password" required minlength="8" placeholder="영문, 숫자 포함 8자 이상"></label>
+        <label>비밀번호 확인<input name="passwordConfirm" type="password" autocomplete="new-password" required placeholder="비밀번호를 한 번 더 입력"></label>
+        <p class="form-message" role="alert"></p><button class="auth-submit" type="submit">회원가입</button>
+      </form>
+      <p class="auth-switch">이미 회원이신가요? <a href="#login">로그인</a></p>
+    </div>
+  </div>
+</section></main>
+<footer id="footer"><a class="footer-brand image-brand" href="#home" aria-label="B4 YEOJUNG 홈"><img src="images/brand-logo.png" alt="B4 YEOJUNG" width="2172" height="724"></a><nav><a href="#footer" data-footer-info="이용약관">이용약관</a><a href="#footer" data-footer-info="개인정보처리방침">개인정보처리방침</a><a href="#footer" data-footer-info="고객센터">고객센터</a><a href="#footer" data-footer-info="회사소개">회사소개</a></nav><p class="legal">B4 YEOJUNG · 국내 여행 혜택 정보 통합 플랫폼 <br>© 2026 B4 YEOJUNG. 게임 쿠폰은 제휴 전 체험용입니다. 행사·할인은 공식 안내를 확인하세요.</p><div class="social"></div></footer>
+<dialog id="gameDialog"><button id="closeDialog" class="close" aria-label="닫기">×</button><div id="gameBody"></div></dialog><script src="js/content.js"></script><script src="js/place-details.js"></script><script src="js/ui.js"></script><script src="js/auth.js"></script><script src="js/barcode.js"></script><script src="js/games.js"></script><script src="js/coupon-barcode.js" defer></script><dialog id="barcodeDialog" aria-label="쿠폰 바코드" tabindex="0"><div id="barcodeBody"></div></dialog>
+
+<!-- GO TOP 버튼 -->
+<button
+  type="button"
+  id="goTopBtn"
+  class="go-top-btn"
+  aria-label="페이지 맨 위로 이동"
+  title="맨 위로 이동"
+>
+  <span aria-hidden="true">↑</span>
+</button>
+<script>
+(() => {
+  const goTopBtn = document.getElementById("goTopBtn");
+
+  if (!goTopBtn) return;
+
+  // GO TOP 버튼 표시를 허용할 페이지
+  const allowedPages = new Set([
+    "#destinations",
+    "#courses",
+    "#food",
+    "#games",
+    "#coupons",
+    "#events"
+  ]);
+
+  // 실제 프로젝트의 푸터 선택자
+  const footer =
+    document.querySelector("footer") ||
+    document.querySelector(".footer") ||
+    document.querySelector("#footer");
+
+  // 현재 페이지가 허용된 페이지인지 확인
+  // 지역 선택 시 해시가 #courses/busan, #food/jeju/cafe처럼
+  // 하위 경로를 포함하므로, 첫 번째 경로(#courses / #food)만 검사합니다.
+  function isAllowedPage() {
+    const currentPage = window.location.hash.split("/")[0];
+    return allowedPages.has(currentPage);
+  }
+
+  // 버튼 표시 및 푸터 위치 처리
+  function updateGoTopButton() {
+    const allowed = isAllowedPage();
+    const scrolled = window.scrollY > 200;
+
+    if (!allowed) {
+      goTopBtn.classList.remove("is-visible");
+      goTopBtn.style.bottom = "";
+      return;
+    }
+
+    goTopBtn.classList.toggle(
+      "is-visible",
+      scrolled
+    );
+
+    // 푸터와 겹치지 않도록 버튼을 위로 이동
+    if (footer) {
+      const footerRect = footer.getBoundingClientRect();
+      const buttonHeight = goTopBtn.offsetHeight;
+      const defaultBottom = 28;
+      const safeGap = 20;
+
+      const footerOverlap =
+        window.innerHeight - footerRect.top;
+
+      if (footerOverlap > 0) {
+        const adjustedBottom =
+          footerOverlap + safeGap;
+
+        goTopBtn.style.bottom =
+          `${Math.max(defaultBottom, adjustedBottom)}px`;
+      } else {
+        goTopBtn.style.bottom = "";
+      }
+    } else {
+      goTopBtn.style.bottom = "";
+    }
+  }
+
+  // 클릭 시 최상단으로 부드럽게 이동
+  goTopBtn.addEventListener("click", () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  });
+
+  // 스크롤 및 화면 변경 감지
+  window.addEventListener("scroll", updateGoTopButton, {
+    passive: true
+  });
+
+  window.addEventListener("resize", updateGoTopButton);
+  window.addEventListener("hashchange", updateGoTopButton);
+  window.addEventListener("popstate", updateGoTopButton);
+
+  // 최초 실행
+  updateGoTopButton();
+})();
+</script>
+</body></html>
+

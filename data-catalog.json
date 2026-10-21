@@ -1,0 +1,1857 @@
+{
+  "updatedAt": "2026-10-13",
+  "regions": [
+    "서울",
+    "부산",
+    "강릉",
+    "제주"
+  ],
+  "places": [
+    {
+      "name": "경복궁",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 종로구 사직로 161",
+      "hours": "1~2월·11~12월 09:00~17:00 / 3~5월·9~10월 09:00~18:00 / 6~8월 09:00~18:30 · 입장 마감 1시간 전, 화요일 휴궁",
+      "phone": "02-3700-3900",
+      "image": "images/places/seoul-01.png",
+      "sourceUrl": "https://english.visitseoul.net/attractions/Gyeongbokgung%20Palace/ENP000072",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=65749&fileTy=MEDIA&fileNo=4&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "additionalSources": [
+        "https://royal.khs.go.kr/ROYAL/contents/R101000000.do"
+      ],
+      "mapUrl": "https://map.naver.com/p/search/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%AC%EC%A7%81%EB%A1%9C%20161"
+    },
+    {
+      "name": "북촌한옥마을",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 종로구 계동길 37",
+      "hours": "10:00–17:00 (특별관리구역 방문 제한 준수)",
+      "phone": "02-2133-1372",
+      "image": "images/places/seoul-02.png",
+      "sourceUrl": "https://english.visitseoul.net/attractions/bukchon-hanok-village/ENP000261",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=42685&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EA%B3%84%EB%8F%99%EA%B8%B8%2037"
+    },
+    {
+      "name": "창덕궁",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 종로구 율곡로 99",
+      "hours": "2~5월·9~10월 09:00~18:00 / 6~8월 09:00~18:30 / 11~1월 09:00~17:30 · 월요일 휴궁 (후원 별도 예약)",
+      "phone": "02-3668-2300",
+      "image": "images/places/seoul-03.png",
+      "sourceUrl": "https://korean.visitseoul.net/attractions/%EC%B0%BD%EB%8D%95%EA%B6%81_/295",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=66705&fileTy=MEDIA&fileNo=7&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요. 공식 페이지 접근 실패: HTTP Error 500: 500",
+      "imageWidth": 800,
+      "imageHeight": 556,
+      "additionalSources": [
+        "https://royal.khs.go.kr/ROYAL/contents/R101000000.do"
+      ],
+      "mapUrl": "https://map.naver.com/p/search/%EC%B0%BD%EB%8D%95%EA%B6%81%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%9C%A8%EA%B3%A1%EB%A1%9C%2099"
+    },
+    {
+      "name": "인사동",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 종로구 인사동길",
+      "hours": "거리 상시 개방 · 점포별 상이",
+      "phone": "02-120 (서울 다산콜센터)",
+      "image": "images/places/seoul-04.png",
+      "sourceUrl": "https://korean.visitseoul.net/shopping/place/KOP000080",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=193&fileTy=MEDIA&fileNo=3&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EC%9D%B8%EC%82%AC%EB%8F%99%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%9D%B8%EC%82%AC%EB%8F%99%EA%B8%B8",
+      "additionalSources": [
+        "https://korean.visitseoul.net/shopping/%EC%9D%B8%EC%82%AC%EB%8F%99%EA%B8%B8/KOP000080"
+      ]
+    },
+    {
+      "name": "N서울타워",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 용산구 남산공원길 105",
+      "hours": "평일 10:00–22:30 / 주말 10:00–23:00",
+      "phone": "02-3455-9277",
+      "image": "images/places/seoul-05.png",
+      "sourceUrl": "https://english.visitseoul.net/attractions/Namsan%20Seoul%20Tower%20/ENP000036",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=68274&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/N%EC%84%9C%EC%9A%B8%ED%83%80%EC%9B%8C%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EB%82%A8%EC%82%B0%EA%B3%B5%EC%9B%90%EA%B8%B8%20105"
+    },
+    {
+      "name": "서울숲",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 성동구 뚝섬로 273",
+      "hours": "공원 24시간 / 생태숲 05:30–21:30 · 시설별 상이",
+      "phone": "02-460-2905",
+      "image": "images/places/seoul-06.png",
+      "sourceUrl": "https://english.visitseoul.net/nature/seoul-forest/ENP001838",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72835&fileTy=MEDIA&fileNo=1&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%88%B2%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EB%9A%9D%EC%84%AC%EB%A1%9C%20273"
+    },
+    {
+      "name": "동대문디자인플라자",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 중구 을지로 281",
+      "hours": "10:00–20:00 / 공간별 상이 · 1월 1일·설·추석 당일 휴무",
+      "phone": "02-2153-0000",
+      "image": "images/places/seoul-07.png",
+      "sourceUrl": "https://korean.visitseoul.net/attractions/%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90%20(DDP)_/24679",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=68049&fileTy=MEDIA&fileNo=1&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요. 공식 페이지 접근 실패: HTTP Error 500: 500",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%9D%84%EC%A7%80%EB%A1%9C%20281"
+    },
+    {
+      "name": "여의도한강공원",
+      "city": "서울",
+      "category": "관광지",
+      "address": "서울 영등포구 여의동로 330",
+      "hours": "야외공원 상시 개방 · 안내센터 09:00–18:00 · 시설별 상이",
+      "phone": "02-3780-0561",
+      "image": "images/places/seoul-08.png",
+      "sourceUrl": "https://malay.visitseoul.net/yongsan-yeouido/Yeouido-Hangang-Park-Girls%E2%80%99-Generation-Forest-BM_/38846",
+      "imageSourceUrl": "https://malay.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=65858&fileTy=MEDIA&fileNo=4&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "additionalSources": [
+        "https://hangang.seoul.go.kr/www/contents/669.do?mid=473",
+        "https://hangang.seoul.go.kr/www/contents/671.do?mid=476"
+      ],
+      "mapUrl": "https://map.naver.com/p/search/%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8F%99%EB%A1%9C%20330"
+    },
+    {
+      "name": "명동교자 본점",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 중구 명동10길 29",
+      "hours": "10:30–21:00",
+      "phone": "0507-1366-5348",
+      "image": "images/places/seoul-09.png",
+      "sourceUrl": "https://english.visitseoul.net/attractions/Myeongdongkyoja-EN_/8578",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=4197&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EB%AA%85%EB%8F%99%EA%B5%90%EC%9E%90%20%EB%B3%B8%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%9910%EA%B8%B8%2029"
+    },
+    {
+      "name": "우래옥",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 중구 창경궁로 62-29",
+      "hours": "11:30–21:00 / 월요일·명절 휴무",
+      "phone": "02-2265-0151",
+      "image": "images/places/seoul-10.png",
+      "sourceUrl": "https://korean.visitseoul.net/citycenter/place/3211",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=1987&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EC%9A%B0%EB%9E%98%EC%98%A5%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%B0%BD%EA%B2%BD%EA%B6%81%EB%A1%9C%2062-29"
+    },
+    {
+      "name": "광장시장 부촌육회",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 종로구 종로 200-12",
+      "hours": "월–토 09:00–22:00 / 일 09:00–22:00 · 주문 마감 별도",
+      "phone": "02-2267-1831",
+      "image": "images/places/seoul-11.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67578",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/89/2477789_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 699,
+      "imageHeight": 466,
+      "mapUrl": "https://map.naver.com/p/search/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5%20%EB%B6%80%EC%B4%8C%EC%9C%A1%ED%9A%8C%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%A2%85%EB%A1%9C%20200-12"
+    },
+    {
+      "name": "토속촌삼계탕",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 종로구 자하문로5길 5",
+      "hours": "10:00–22:00",
+      "phone": "02-737-7444",
+      "image": "images/places/seoul-12.png",
+      "sourceUrl": "https://korean.visitseoul.net/restaurants/TosokchonSamgyetang/KOPywjsmm",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80934&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%ED%86%A0%EC%86%8D%EC%B4%8C%EC%82%BC%EA%B3%84%ED%83%95%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%9E%90%ED%95%98%EB%AC%B8%EB%A1%9C5%EA%B8%B8%205"
+    },
+    {
+      "name": "진옥화할매원조닭한마리",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 종로구 종로40가길 18",
+      "hours": "10:30–익일 01:00 / 마지막 주문 23:30",
+      "phone": "02-2275-9666",
+      "image": "images/places/seoul-13.png",
+      "sourceUrl": "https://japanese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85649",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/39/3082739_image2_1.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 940,
+      "imageHeight": 627,
+      "mapUrl": "https://map.naver.com/p/search/%EC%A7%84%EC%98%A5%ED%99%94%ED%95%A0%EB%A7%A4%EC%9B%90%EC%A1%B0%EB%8B%AD%ED%95%9C%EB%A7%88%EB%A6%AC%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%A2%85%EB%A1%9C40%EA%B0%80%EA%B8%B8%2018"
+    },
+    {
+      "name": "필동면옥",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 중구 서애로 26",
+      "hours": "11:00–15:00,17:00–20:20 / 일요일·명절 휴무",
+      "phone": "02-2266-2611",
+      "image": "images/places/seoul-14.png",
+      "sourceUrl": "https://english.visitseoul.net/dongdaemunarea/pildong-myeonok1/ENP013409",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=37456&fileTy=MEDIA&fileNo=3&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%ED%95%84%EB%8F%99%EB%A9%B4%EC%98%A5%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%84%9C%EC%95%A0%EB%A1%9C%2026"
+    },
+    {
+      "name": "금돼지식당",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 중구 다산로 149",
+      "hours": "11:30–23:00",
+      "phone": "0507-1307-8750",
+      "image": "images/places/seoul-15.png",
+      "sourceUrl": "https://german.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=199565",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/27/2778727_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 940,
+      "imageHeight": 627,
+      "mapUrl": "https://map.naver.com/p/search/%EA%B8%88%EB%8F%BC%EC%A7%80%EC%8B%9D%EB%8B%B9%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%8B%A4%EC%82%B0%EB%A1%9C%20149"
+    },
+    {
+      "name": "하동관 명동본점",
+      "city": "서울",
+      "category": "맛집",
+      "address": "서울 중구 명동9길 12",
+      "hours": "07:00–16:00 / 일요일 휴무 · 재료 소진 시 종료",
+      "phone": "02-776-5656",
+      "image": "images/places/seoul-16.png",
+      "sourceUrl": "https://english.visitseoul.net/attractions/Hadonggwan/ENP005614",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=3937&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 운영정보는 방문 전 공식 안내 확인. 공개 전 사진 사용권 확인.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%ED%95%98%EB%8F%99%EA%B4%80%20%EB%AA%85%EB%8F%99%EB%B3%B8%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AA%85%EB%8F%999%EA%B8%B8%2012"
+    },
+    {
+      "name": "어니언 안국",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 종로구 계동길 5",
+      "hours": "평일 07:00–22:00 / 주말 09:00–22:00",
+      "phone": "070-7543-2123",
+      "image": "images/places/seoul-17.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=191156",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/83/3079683_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 940,
+      "imageHeight": 705,
+      "mapUrl": "https://map.naver.com/p/search/%EC%96%B4%EB%8B%88%EC%96%B8%20%EC%95%88%EA%B5%AD%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EA%B3%84%EB%8F%99%EA%B8%B8%205"
+    },
+    {
+      "name": "프릳츠 도화점",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 마포구 새창로2길 17",
+      "hours": "평일 08:00–22:00 / 주말·공휴일 10:00–22:00",
+      "phone": "02-3275-2045",
+      "image": "images/places/seoul-18.png",
+      "sourceUrl": "https://www.fritz.co.kr/store/detail.html?product_no=2243&cate_no=125&display_group=1",
+      "imageSourceUrl": "https://www.fritz.co.kr/web/product/medium/202609/154a1a8f8d0c0706e0372081774f37e4.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 프릳츠 도화점 사진·주소. 전화는 매장 프로필 기준. 영업시간은 공식 안내 확인 필요.",
+      "imageWidth": 1200,
+      "imageHeight": 847,
+      "additionalSources": [
+        "https://www.daangn.com/kr/local-profile/%ED%94%84%EB%A6%B3%EC%B8%A0-%EB%8F%84%ED%99%94%EC%A0%90-c9k8a7xw4eex/",
+        "https://en.fritz.co.kr/contact.html"
+      ],
+      "mapUrl": "https://map.naver.com/p/search/%ED%94%84%EB%A6%B3%EC%B8%A0%20%EB%8F%84%ED%99%94%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%83%88%EC%B0%BD%EB%A1%9C2%EA%B8%B8%2017"
+    },
+    {
+      "name": "블루보틀 삼청",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 종로구 북촌로5길 76",
+      "hours": "09:00–20:00",
+      "phone": "1533-6906 (브랜드 고객 문의 · 매장 직통 미공개)",
+      "image": "images/places/seoul-19.png",
+      "sourceUrl": "https://kr.bluebottlecoffee.com/blogs/locator/bluebottle-samchung-cafe",
+      "imageSourceUrl": "https://kr.bluebottlecoffee.com/cdn/shop/articles/BBCK_SC_main_1600x1600_b6772249-defe-40be-80c1-0a611042969b.jpg?v=1775009463",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 1600,
+      "imageHeight": 1600,
+      "mapUrl": "https://map.naver.com/p/search/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80%20%EC%82%BC%EC%B2%AD%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%B4%8C%EB%A1%9C5%EA%B8%B8%2076",
+      "additionalSources": [
+        "https://kr.bluebottlecoffee.com/pages/contact"
+      ]
+    },
+    {
+      "name": "센터커피 서울숲",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 성동구 서울숲2길 28-11",
+      "hours": "화–일 10:00–21:00 / 월요일 휴무",
+      "phone": "0507-1448-2017",
+      "image": "images/places/seoul-20.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=177422",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/30/2900130_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 705,
+      "imageHeight": 940,
+      "mapUrl": "https://map.naver.com/p/search/%EC%84%BC%ED%84%B0%EC%BB%A4%ED%94%BC%20%EC%84%9C%EC%9A%B8%EC%88%B2%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%84%9C%EC%9A%B8%EC%88%B22%EA%B8%B8%2028-11"
+    },
+    {
+      "name": "대림창고",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 성동구 성수이로 78",
+      "hours": "11:00–22:00 / 설·추석 당일 휴무",
+      "phone": "02-499-9669",
+      "image": "images/places/seoul-21.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=112805",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/69/2721169_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 940,
+      "imageHeight": 627,
+      "mapUrl": "https://map.naver.com/p/search/%EB%8C%80%EB%A6%BC%EC%B0%BD%EA%B3%A0%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%84%B1%EC%88%98%EC%9D%B4%EB%A1%9C%2078"
+    },
+    {
+      "name": "앤트러사이트 연희",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 서대문구 연희로 135",
+      "hours": "08:50–22:00",
+      "phone": "02-332-7650",
+      "image": "images/places/seoul-22.png",
+      "sourceUrl": "https://www.anthracitecoffee.com/visit",
+      "imageSourceUrl": "https://cdn.imweb.me/thumbnail/20190713/d2111b014f6bf.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 안내 확인. 이미지 사용권은 공개 전 확인 필요.",
+      "imageWidth": 1500,
+      "imageHeight": 1124,
+      "mapUrl": "https://map.naver.com/p/search/%EC%95%A4%ED%8A%B8%EB%9F%AC%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%97%B0%ED%9D%AC%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%A1%9C%20135"
+    },
+    {
+      "name": "테라로사 포스코센터점",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 강남구 테헤란로 440",
+      "hours": "평일 07:30–21:00 / 주말 08:30–21:00",
+      "phone": "033-648-2760",
+      "image": "images/places/seoul-23.png",
+      "sourceUrl": "https://www.visitgangnam.net/en/places/terarosa-at-the-posco-center",
+      "imageSourceUrl": "https://www.visitgangnam.net/images/2023/04/4-min-7.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "강남구 관광 공식 페이지의 포스코센터점 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 1000,
+      "imageHeight": 667,
+      "mapUrl": "https://map.naver.com/p/search/%ED%85%8C%EB%9D%BC%EB%A1%9C%EC%82%AC%20%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%84%BC%ED%84%B0%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%ED%85%8C%ED%97%A4%EB%9E%80%EB%A1%9C%20440"
+    },
+    {
+      "name": "카페 레이어드 안국점",
+      "city": "서울",
+      "category": "카페",
+      "address": "서울 종로구 북촌로2길 2-3",
+      "hours": "08:00–22:00",
+      "phone": "0507-1320-6219",
+      "image": "images/places/seoul-24.png",
+      "sourceUrl": "https://korean.visitseoul.net/restaurants/place/KOP038318",
+      "imageSourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=43075&fileTy=MEDIA&fileNo=1&thumbTy=L",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 관광·매장 출처 실사. 공개 전 사진 사용권 확인.",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "mapUrl": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C%20%EC%95%88%EA%B5%AD%EC%A0%90%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%B6%81%EC%B4%8C%EB%A1%9C2%EA%B8%B8%202-3"
+    },
+    {
+      "name": "해운대블루라인파크",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 해운대구 달맞이길62번길 13 (미포정거장)",
+      "hours": "계절·열차 종류별 상이 · 공식 시간표 확인",
+      "phone": "051-701-5548",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=980",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20200825180201921",
+      "image": "images/places/busan-blueline.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        545
+      ]
+    },
+    {
+      "name": "광안리해수욕장",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 수영구 광안해변로 219",
+      "hours": "상시",
+      "phone": "051-622-4251",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=377",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20191229160529389",
+      "image": "images/places/busan-gwangalli.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        2200,
+        1052
+      ]
+    },
+    {
+      "name": "흰여울문화마을",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 영도구 흰여울길",
+      "hours": "매일",
+      "phone": "051-419-4067",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=255",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20191222164810529",
+      "image": "images/places/busan-huinnyeoul.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        545
+      ]
+    },
+    {
+      "name": "감천문화마을",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 사하구 감내2로 203",
+      "hours": "09:00 ~ 18:00 (3월-10월) 09:00 ~ 17:00 (11월-2월)",
+      "phone": "051-204-1444",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=365",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20191229142305006",
+      "image": "images/places/busan-gamcheon.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        545
+      ]
+    },
+    {
+      "name": "국제시장",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 중구 신창로4가 일원",
+      "hours": "09:00~20:00 (점포별 상이)",
+      "phone": "국제시장 상인번영회 051-245-7389",
+      "sourceUrl": "https://access.visitkorea.or.kr/ms/detail.do?cotId=b26b8175-7953-4512-9f52-89299eded395",
+      "imageSourceUrl": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=303814ce-8d04-48f6-9fed-618154fd8976&",
+      "image": "images/places/busan-gukje.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        940,
+        626
+      ]
+    },
+    {
+      "name": "BIFF 광장",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 중구 구덕로 지하44 (남포동5가)",
+      "hours": "상가별로 상이함",
+      "phone": "부산국제영화제 1688-3010",
+      "sourceUrl": "https://access.visitkorea.or.kr/ms/detail.do?cotId=7b4d6b05-d55e-41c8-b4a7-0befc2f5a069",
+      "imageSourceUrl": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=c48a0342-28c3-4ee0-bad9-29a8c894246a&",
+      "image": "images/places/busan-biff.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        940,
+        626
+      ]
+    },
+    {
+      "name": "오륙도 스카이워크",
+      "city": "부산",
+      "category": "관광지",
+      "address": "부산광역시 남구 오륙도로 137",
+      "hours": "- 하절기(6월~9월) 09:00~19:00 (입장 마감 18:50) - 동절기(10월~5월) 09:00~18:00 (입장 마감 17:50) ※ 설·추석 당일은 12:00부터 개방",
+      "phone": "남구시설관리공단 051-601-3416",
+      "sourceUrl": "https://access.visitkorea.or.kr/ms/detail.do?cotId=deb20f06-d4e3-468f-837a-fbb6b316085d",
+      "imageSourceUrl": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=be091588-d234-42f8-bf05-6756fa0e61d8&",
+      "image": "images/places/busan-oryukdo.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        940,
+        626
+      ]
+    },
+    {
+      "name": "이재모피자",
+      "city": "부산",
+      "category": "맛집",
+      "address": "중구 광복중앙로 31",
+      "hours": "10:00-21:00",
+      "phone": "051-255-9494",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=124",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20240419113018528",
+      "image": "images/places/busan-pizza.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "name": "톤쇼우 광안점",
+      "city": "부산",
+      "category": "맛집",
+      "address": "광안해변로279번길 13",
+      "hours": "11:00-21:30 (20:30 라스트 오더)",
+      "phone": "010-5835-7978",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1251",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20220511142349184",
+      "image": "images/places/busan-tonshou.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1280,
+        903
+      ]
+    },
+    {
+      "name": "쌍둥이돼지국밥",
+      "city": "부산",
+      "category": "맛집",
+      "address": "남구 유엔평화로 35-1",
+      "hours": "09:00-22:00",
+      "phone": "051-628-7021",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=204",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20230607155733028",
+      "image": "images/places/busan-twins.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1235,
+        2200
+      ]
+    },
+    {
+      "name": "개금밀면",
+      "city": "부산",
+      "category": "맛집",
+      "address": "부산 부산진구 가야대로482번길 9-4 (개금동)",
+      "hours": "11:00~19:40",
+      "phone": "051-892-3466",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1602",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20230613095016120",
+      "image": "images/places/busan-milmyeon.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        2200,
+        1238
+      ]
+    },
+    {
+      "name": "해목 해운대점",
+      "city": "부산",
+      "category": "맛집",
+      "address": "부산 해운대구 구남로 24번길 8, Busan, 48094, 대한민국",
+      "hours": "11:00~22:00 / 쉬는 시간 15:00~17:00 (방문 전 확인)",
+      "phone": "+82 51-746-3730",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1938",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20240718093520496",
+      "image": "images/places/busan-haemok.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "hoursSourceUrl": "https://www.tabling.co.kr/restaurant/2124",
+      "imageDimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "name": "모모스커피 영도점",
+      "city": "부산",
+      "category": "카페",
+      "address": "부산광역시 영도구 봉래나루로 160",
+      "hours": "매일 08:00~18:00",
+      "phone": "070-5129-0184",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1768",
+      "imageSourceUrl": "https://www.visitbusan.net/archive/upload/2025/02/20/20250220125655829475_m.png",
+      "image": "images/places/busan-momos.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1400,
+        932
+      ]
+    },
+    {
+      "name": "카페385",
+      "city": "부산",
+      "category": "카페",
+      "address": "부산광역시 영도구 태종로 539",
+      "hours": "매일 10:00-22:00 (라스트오더 21:30)",
+      "phone": "0507-1431-0492",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=2099",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20240920164901605",
+      "image": "images/places/busan-cafe385.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        545
+      ]
+    },
+    {
+      "name": "피아크",
+      "city": "부산",
+      "category": "카페",
+      "address": "영도구 해양로 195번길 180 4층",
+      "hours": "월-일 : 10:00-23:00",
+      "phone": "051-404-9204",
+      "sourceUrl": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1445",
+      "imageSourceUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20250529162311917",
+      "image": "images/places/busan-park.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "사진 출처: 부산관광공사 비짓부산. 운영시간은 방문 전 최신 안내 확인.",
+      "imageDimensions": [
+        1200,
+        2137
+      ]
+    },
+    {
+      "name": "까사부사노 해운대점",
+      "city": "부산",
+      "category": "카페",
+      "address": "부산광역시 해운대구 구남로 17-1",
+      "hours": "08:30~익일 02:00 / 금·토 익일 03:00 (방문 전 확인)",
+      "phone": "0507-1321-6349",
+      "sourceUrl": "https://www.tabling.co.kr/place/677cd06266de5f069885f816",
+      "imageSourceUrl": "https://polle-image.tabling.co.kr/posts/I4m6Pd2VD4ci0KXfhwO5Yg.jpg",
+      "image": "images/places/busan-casa.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "실제 해운대점 리뷰 사진. 운영정보 방문 전 최신 안내 확인. 사진 사용 조건은 원출처 확인.",
+      "imageDimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "name": "흰여울비치",
+      "city": "부산",
+      "category": "카페",
+      "address": "부산광역시 영도구 절영로 236",
+      "hours": "월·목·금 09:45~18:00 / 토·일 08:45~20:00 / 화·수 휴무 (주문 마감 1시간 전)",
+      "phone": "0507-1348-9635",
+      "image": "images/places/busan-huinnyeoulbeach.png",
+      "sourceUrl": "https://www.diningcode.com/profile.php?rid=Fy2jWjNE8GG4",
+      "imageSourceUrl": "https://eming56.tistory.com/113",
+      "imagePageUrl": "https://eming56.tistory.com/113",
+      "verifiedAt": "2026-10-13",
+      "imageDimensions": [
+        900,
+        1200
+      ],
+      "imageSha256": "cfdd0c240e201e6baeb9b3387c5c73ed4bad85080f53764df5fa01e0e3da4fae",
+      "notes": "흰여울비치 간판과 분홍색 실제 외관을 시각적으로 확인. 에테르 사진 아님. 운영정보는 최신 업체 리뷰 교차 확인이며 공식 안내는 방문 전 재확인 필요. 리뷰 사진은 배포 전 이용허락 확인 필요."
+    },
+    {
+      "name": "경포해변",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 창해로 514",
+      "hours": "24시간 개방",
+      "phone": "033-640-4531",
+      "image": "images/places/gangneung-01.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111055",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/20/2671420_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공식 경포해변 실사. 방문 전 해수욕장 운영기간 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        699,
+        466
+      ],
+      "imageSha256": "7cc51b70b47936bd2a6f77343529e2c9d5f70cf41006d09590f2f0973e203641"
+    },
+    {
+      "name": "경포대",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 경포로 365 (저동)",
+      "hours": "상시 개방",
+      "phone": "033-640-5119",
+      "image": "images/places/gangneung-02.png",
+      "sourceUrl": "https://www.koreatriptips.com/tourist-attractions/125790.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/46/3501446_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        626
+      ],
+      "imageSha256": "760410cb313487cd45067ef5982c1b69d23cab593f0018a8f7fbfca3399952ba"
+    },
+    {
+      "name": "오죽헌",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 율곡로3139번길 24",
+      "hours": "09:00~18:00 (매표 마감 17:00)",
+      "phone": "033-660-3301",
+      "image": "images/places/gangneung-03.png",
+      "sourceUrl": "https://www.koreatriptips.com/tourist-attractions/125789.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/69/2688069_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        700,
+        467
+      ],
+      "imageSha256": "a8e3bbf19fb8b67189984ab89332dfb57625e873089518cfea5f0038c083e1b1"
+    },
+    {
+      "name": "안목해변 커피거리",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 창해로14번길 20-1",
+      "hours": "상시 개방",
+      "phone": "033-660-3887",
+      "image": "images/places/gangneung-04.png",
+      "sourceUrl": "https://www.koreatriptips.com/tourist-attractions/127722.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/58/4075958_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        627
+      ],
+      "imageSha256": "d7c8b5da4c42ac7cdfbe97826caaadb0a9bd209c3f3dc303052d7928b66efb7e"
+    },
+    {
+      "name": "아르떼뮤지엄 강릉",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 난설헌로 131 (초당동)",
+      "hours": "10:00~20:00 (입장 마감 19:00)",
+      "phone": "1899-5008",
+      "image": "images/places/gangneung-05.png",
+      "sourceUrl": "https://www.koreatriptips.com/cultural-facilities/2804197.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/33/3085833_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        626
+      ],
+      "imageSha256": "4b7099b3c7b9f77ca3dadcc817f64da64a913f741e72e7a65c5cd6430e2fa5e8"
+    },
+    {
+      "name": "선교장",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 운정길 63 (운정동)",
+      "hours": "09:00~18:00",
+      "phone": "033-648-5303",
+      "image": "images/places/gangneung-06.png",
+      "sourceUrl": "https://www.koreatriptips.com/tourist-attractions/125800.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/68/3493168_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        627
+      ],
+      "imageSha256": "99d6483ed9e97aa30c8bc0039b4ca2fb082e62be2f2474f652009632a2a6cb9d"
+    },
+    {
+      "name": "정동진",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 강동면 정동역길 17",
+      "hours": "해변 산책 상시 / 열차는 시간표 확인",
+      "phone": "033-640-4536",
+      "image": "images/places/gangneung-07.png",
+      "sourceUrl": "https://www.koreatriptips.com/tourist-attractions/2605193.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/12/4093712_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        705
+      ],
+      "imageSha256": "438b61a605e3b2a46a96e35318098de51417984b1125906b69bffc1cbc3c3ea6"
+    },
+    {
+      "name": "주문진해변",
+      "city": "강릉",
+      "category": "관광지",
+      "address": "강원특별자치도 강릉시 주문진읍 주문북로 210",
+      "hours": "06:00~24:00 / 해수욕은 개장기간 지정시간 확인",
+      "phone": "033-640-5422",
+      "image": "images/places/gangneung-08.png",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110970",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/91/2938891_image2_1.bmp",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        627
+      ],
+      "imageSha256": "e61aead19b36baddd8c2d339c829a65c78e6f3bba96c3f165ac91b41329ccda3"
+    },
+    {
+      "name": "동화가든 본점",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 초당순두부길77번길 15",
+      "hours": "- 07:00~19:30 - 준비시간 16:00~17:00 - 마지막 주문 18:55",
+      "phone": "0507-1432-9885",
+      "image": "images/places/gangneung-09.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/623223.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/20/3029720_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        626
+      ],
+      "imageSha256": "70455efecbe748d5c15048c571db480d33c6bb6d0cf3584ba9333e1f70b34a02"
+    },
+    {
+      "name": "엄지네포장마차 본점",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 경강로2255번길 21",
+      "hours": "매일 11:00~23:00",
+      "phone": "033-642-0178",
+      "image": "images/places/gangneung-10.png",
+      "sourceUrl": "https://www.kric.go.kr/jsp/board/portal/sub05/res/themeEssayDetail.jsp?board_cd=M020204&board_seq=3676&q_naGubunALL=all",
+      "imageSourceUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbwXfGq%2FbtrDqdCckMs%2FAAAAAAAAAAAAAAAAAAAAADRDQlodlAX0n312JJOItc7BOUYX_GejCx1gFDvCYEec%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DkxQRG3DzckoOz%252BD%252FvjebR0Wcmvw%253D",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        800,
+        450
+      ],
+      "imageSha256": "363a6ed1b0a9155e9ff5298148f056058ea42c24e68dc00d54dcbeb7ad58262b",
+      "evidenceSources": [
+        {
+          "fields": [
+            "hours"
+          ],
+          "url": "https://www.tabling.co.kr/place/6762812a66de5f0698ee0a55",
+          "type": "예약·매장정보 서비스",
+          "verifiedAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "name": "형제칼국수",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 강릉대로204번길 2",
+      "hours": "10:00~19:00",
+      "phone": "033-647-1358",
+      "image": "images/places/gangneung-11.png",
+      "sourceUrl": "https://infotravelog.com/places/34693",
+      "imageSourceUrl": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260616075811964_photo_06b94bb5f32c.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        750,
+        750
+      ],
+      "imageSha256": "04aeed9a82d363201befb3386626dc8a64bed4fb1f98ac3b660af915803516bf",
+      "evidenceSources": [
+        {
+          "fields": [
+            "phone"
+          ],
+          "url": "https://tvmatzip.co.kr/restaurant/gangneung-hyungje-jangkalguksu/",
+          "type": "업체정보·방송자료, 2026-08-23 최종확인",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "fields": [
+            "phone"
+          ],
+          "url": "https://www.onkorea.co.kr/gangneung/Dd8s62j0EFik",
+          "type": "인허가 기반 업체정보 교차확인",
+          "verifiedAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "name": "현대장칼국수",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 임영로182번길 7-1",
+      "hours": "10:00~19:00",
+      "phone": "033-645-0929",
+      "image": "images/places/gangneung-12.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2837796.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/92/2837792_image2_1.JPG",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        627
+      ],
+      "imageSha256": "24585b225fc18cadb2e484ff3b87eeb5b3e883b8ebb6958a728384399dab24f8"
+    },
+    {
+      "name": "초당할머니순두부",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 초당순두부길 77",
+      "hours": "- 화요일 08:00~15:00 - 평일 08:00~19:00 (준비시간 16:00~17:00) - 주말 08:00~18:30 (준비시간 15:30~17:00)",
+      "phone": "033-652-2058",
+      "image": "images/places/gangneung-13.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/133808.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/21/1022421_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        699,
+        466
+      ],
+      "imageSha256": "d7b7b2834a00b056781163fcae5a999c94943cab1a80b4ff61b99c5652978bf4"
+    },
+    {
+      "name": "교동반점",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 강릉대로 205 (교동)",
+      "hours": "10:00~18:00",
+      "phone": "033-646-3833",
+      "image": "images/places/gangneung-14.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2774300.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/77/2786477_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        625
+      ],
+      "imageSha256": "0d720f6a1f9ef2acb2a5febb12dd361492f09c72f2eddf3d65b26067568875e2"
+    },
+    {
+      "name": "해미가",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 솔올로 103",
+      "hours": "10:00~20:00 / 일요일 휴무",
+      "phone": "033-647-1003",
+      "image": "images/places/gangneung-15.png",
+      "sourceUrl": "https://www.tabling.co.kr/restaurant/8985",
+      "imageSourceUrl": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260830114347433_photo_681d7cf9a94f.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        750,
+        750
+      ],
+      "imageSha256": "19eb78e052638b46b538da76cdf297489938850d0706139ddd0b575b5147a8f8"
+    },
+    {
+      "name": "강릉감자옹심",
+      "city": "강릉",
+      "category": "맛집",
+      "address": "강원특별자치도 강릉시 토성로 171",
+      "hours": "10:30~16:00 / 목요일 휴무, 재료 소진 시 조기 종료",
+      "phone": "033-648-0340",
+      "image": "images/places/gangneung-16.png",
+      "sourceUrl": "https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=55761",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/77/2673377_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        700,
+        933
+      ],
+      "imageSha256": "72b2f5ef518180448475d192c2cb000a1217bf9751cde9f2a6f2fcefc6180270"
+    },
+    {
+      "name": "테라로사 커피공장 강릉본점",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 구정면 현천길 7",
+      "hours": "09:00~20:00 (마지막 주문 19:30)",
+      "phone": "1668-2764",
+      "image": "images/places/gangneung-17.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/1950195.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/90/3557890_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        705
+      ],
+      "imageSha256": "342e23b8d11af18248fe43b9305dbfead2f8edb21dcfdf3892df4c46004d9358"
+    },
+    {
+      "name": "보헤미안 박이추 커피공장",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 사천면 해안로 1107",
+      "hours": "매일 09:00~18:00 / 주문 마감 17:40",
+      "phone": "033-642-6688",
+      "image": "images/places/gangneung-18.png",
+      "sourceUrl": "https://moviemaker.tistory.com/1031",
+      "imageSourceUrl": "https://t1.daumcdn.net/cfile/tistory/997E494A5B3D11CC17",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        810,
+        607
+      ],
+      "imageSha256": "9cb5ecd91266e8b6d35da5306d219257ef9c0a57f101a70402e9d16a33c41a87",
+      "evidenceSources": [
+        {
+          "fields": [
+            "phone"
+          ],
+          "url": "https://ebohemian.co.kr/shopinfo/company.html",
+          "type": "브랜드 공식 매장안내",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "fields": [
+            "hours"
+          ],
+          "url": "https://www.diningcode.com/profile.php?rid=53iGJw4Kz4SA",
+          "type": "매장정보 서비스",
+          "verifiedAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "name": "카페 툇마루",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 난설헌로 232",
+      "hours": "11:00~19:00 (마지막 주문 18:00)",
+      "phone": "0507-1349-7175",
+      "image": "images/places/gangneung-19.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2844107.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/03/2844103_image2_1.jpeg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        705,
+        940
+      ],
+      "imageSha256": "3e349cdc6215289f50f39b674f86c7ca6063745579c87b5e983395c01a668d25"
+    },
+    {
+      "name": "갤러리밥스",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 난설헌로 144 (포남동)",
+      "hours": "- 11:30~19:00- 준비시간 15:30~16:20- 마지막 주문 18:30",
+      "phone": "0507-1365-1211",
+      "image": "images/places/gangneung-20.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2753134.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/16/4094316_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        705
+      ],
+      "imageSha256": "cb33176b819a4714e6a734f18bd967e8169633fc392d95d6dd8daf6d7f3e6af4"
+    },
+    {
+      "name": "카페 곳",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 사천면 진리해변길 143",
+      "hours": "매일 09:00~21:00",
+      "phone": "033-646-4500",
+      "image": "images/places/gangneung-21.png",
+      "sourceUrl": "https://polle.com/place/2ESDWr/%EA%B3%B3",
+      "imageSourceUrl": "https://d2uja84sd90jmv.cloudfront.net/posts/I6DY6spNdx9ha9zQ2lf6tw/ms.jpg?updated=-62167392000",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        540,
+        720
+      ],
+      "imageSha256": "508b59a7bce9e2ac8bd309ea13223743297a34cfeb070d1bd6c16623d6c231c4",
+      "evidenceSources": [
+        {
+          "fields": [
+            "hours",
+            "phone"
+          ],
+          "url": "https://mom-mom.net/travel/places/683d7cde08605c4592ba9767",
+          "type": "방문·매장정보 서비스",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "fields": [
+            "hours",
+            "phone"
+          ],
+          "url": "https://www.diningcode.com/profile.php?rid=wo19Yhqb23O4",
+          "type": "매장정보 서비스 교차확인",
+          "verifiedAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "name": "보사노바 커피로스터스 강릉점",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 창해로14번길 28",
+      "hours": "07:00~22:00",
+      "phone": "033-653-0038",
+      "image": "images/places/gangneung-22.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2922605.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/87/3557687_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        705
+      ],
+      "imageSha256": "5ebb7f1d127666852b1bd6c5706f339c1816371c41ef4b13d345c65459359995"
+    },
+    {
+      "name": "커피커퍼 왕산점",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 왕산면 왕산로 2171-19",
+      "hours": "09:00~17:00",
+      "phone": "033-655-6644",
+      "image": "images/places/gangneung-23.png",
+      "sourceUrl": "https://juranus.tistory.com/entry/%EA%B0%95%EB%A6%89-%EC%BB%A4%ED%94%BC%EC%BB%A4%ED%8D%BC-Coffee-Cupper-%EC%BB%A4%ED%94%BC%EB%B0%95%EB%AC%BC%EA%B4%80-%EC%99%95%EC%82%B0%EC%A7%80%EC%A0%90-%EB%B0%A9%EB%AC%B8-%ED%9B%84%EA%B8%B0",
+      "imageSourceUrl": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcGdgUx%2FbtsEGP6cO7P%2FAAAAAAAAAAAAAAAAAAAAAGTCq-uk9kYOeyhbZl7EmzFSS-w34fVlCfY8eoJlOJrS%2Fimg.webp%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D9y1LnQ1QOG816XVPfvKuBXeJy9Q%253D",
+      "verifiedAt": "2026-10-13",
+      "notes": "해당 장소 실사. 블로그·리뷰 사진은 배포 전 이용허락 확인 필요. 운영정보는 방문 전 확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        800,
+        531
+      ],
+      "imageSha256": "2fe3adde11d9871ee42e30598bdef1f866db5e18cbc9dbd0c361e70455392f84",
+      "evidenceSources": [
+        {
+          "fields": [
+            "hours",
+            "phone"
+          ],
+          "url": "https://cupper.kr/?act=info.page&pcode=chain_4",
+          "type": "브랜드 공식 왕산 매장안내",
+          "verifiedAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "name": "카페 뤼미에르",
+      "city": "강릉",
+      "category": "카페",
+      "address": "강원특별자치도 강릉시 창해로14번길 18",
+      "hours": "- 월요일~토요일 08:30~23:00- 일요일 08:00~22:00",
+      "phone": "0507-1447-0225",
+      "image": "images/places/gangneung-24.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2930183.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/79/2930179_image2_1.JPG",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보/실사 사진. 상업 게시 시 사진 이용조건 확인. 방문 전 운영정보 재확인. 공개 원본 해상도가 1000px 미만으로, 고해상도 원본 추가 확보 필요.",
+      "imageDimensions": [
+        940,
+        615
+      ],
+      "imageSha256": "1d735da2a4955acfab83fb8d2bc3c7a6e37c1a6138b46c5203fd6f747b59a4d5"
+    },
+    {
+      "name": "성산일출봉",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349",
+      "address": "제주특별자치도 서귀포시 성산읍 일출로 284-12",
+      "hours": "3~4월·9~10월 05:00~19:00 / 5~8월 04:30~20:00 / 11~2월 06:00~18:00 · 매월 첫 월요일 휴무(공휴일은 다음 날)",
+      "phone": "064-783-0959",
+      "image": "images/places/jeju-sight-01.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201810/17/654ec69c-ca81-443d-9b10-3cfe4a8e98f0.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201810/17/654ec69c-ca81-443d-9b10-3cfe4a8e98f0.webp",
+      "imageDimensions": [
+        1920,
+        560
+      ],
+      "imageSha256": "3cf4a2a8c3ea0b388a81b5aa705a1cd20ce8f2dd3abe730e860df55dabea9468"
+    },
+    {
+      "name": "우도",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500477",
+      "address": "제주특별자치도 제주시 우도면 우도로 153",
+      "hours": "섬 상시 개방 · 여객선 운항시간과 기상에 따른 결항 확인",
+      "phone": "064-728-1527",
+      "image": "images/places/jeju-sight-02.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/dd51e08a-a970-466a-972e-f47f405ca644.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/dd51e08a-a970-466a-972e-f47f405ca644.webp",
+      "imageDimensions": [
+        1600,
+        1084
+      ],
+      "imageSha256": "cef4dc3a18bb7048cea8ed232dcefdc15e66820d0d984a8089b8e5e5cbb3b5a0"
+    },
+    {
+      "name": "섭지코지",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500343",
+      "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 262",
+      "hours": "연중무휴 · 야외 해안 산책로",
+      "phone": "064-784-2810",
+      "image": "images/places/jeju-sight-03.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/46437f2d-5fe9-4360-9c4b-5535cd8ef160.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/46437f2d-5fe9-4360-9c4b-5535cd8ef160.webp",
+      "imageDimensions": [
+        1140,
+        822
+      ],
+      "imageSha256": "ca2fc87d943b942cde183478bbc0f957919e31dc4f9c52500bca7bc9b9e4c89e"
+    },
+    {
+      "name": "함덕해수욕장",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500693",
+      "address": "제주특별자치도 제주시 조천읍 조함해안로 525",
+      "hours": "상시 개방 · 해수욕 운영기간 및 안전요원 운영시간 별도 확인",
+      "phone": "064-728-3989",
+      "image": "images/places/jeju-sight-04.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/f4bb8c53-a598-4523-a34b-e591aa0f0a0e.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/f4bb8c53-a598-4523-a34b-e591aa0f0a0e.webp",
+      "imageDimensions": [
+        1242,
+        900
+      ],
+      "imageSha256": "2f89d3f4090f9a43f9467610586b9b37ec506895609ae0260daaa39421c820d8"
+    },
+    {
+      "name": "협재해수욕장",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500697",
+      "address": "제주특별자치도 제주시 한림읍 협재리 2497-1",
+      "hours": "상시 개방 · 해수욕 운영기간 및 안전요원 운영시간 별도 확인",
+      "phone": "064-728-3981",
+      "image": "images/places/jeju-sight-05.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/1884a0df-e6cf-4e67-9a18-5e1b6169cff0.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/1884a0df-e6cf-4e67-9a18-5e1b6169cff0.webp",
+      "imageDimensions": [
+        1242,
+        900
+      ],
+      "imageSha256": "d522acb6903f3964e3fc7a6194404e417f31e4574a9f1356f3c53f3f7b0c0287"
+    },
+    {
+      "name": "오설록 티뮤지엄",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500457",
+      "address": "제주특별자치도 서귀포시 안덕면 신화역사로 15",
+      "hours": "09:00~18:00 / 하절기 09:00~19:00 · 연중무휴",
+      "phone": "0507-1418-5312",
+      "image": "images/places/jeju-sight-06.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/f6013428-bfe1-455b-9f7f-73a5e6f5221c.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/f6013428-bfe1-455b-9f7f-73a5e6f5221c.webp",
+      "imageDimensions": [
+        1242,
+        900
+      ],
+      "imageSha256": "ba05c1863310b5a14c129c268073d6a32bd62da5b9ebdc5ce5620990264664a2"
+    },
+    {
+      "name": "천지연폭포",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500618",
+      "address": "제주특별자치도 서귀포시 남성중로 2-15",
+      "hours": "09:00~22:00 (입장마감 21:20; 방문 전 확인)",
+      "phone": "064-733-1528",
+      "image": "images/places/jeju-sight-07.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/9533606a-132c-430d-990b-f7ff12d37725.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/9533606a-132c-430d-990b-f7ff12d37725.webp",
+      "imageDimensions": [
+        1242,
+        900
+      ],
+      "imageSha256": "ca006920a443751f26a0b6eb79df43ce2c5bd4f301fa809d580a3ed9aa2d8f8c"
+    },
+    {
+      "name": "한라산국립공원",
+      "city": "제주",
+      "category": "관광지",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500685",
+      "address": "제주특별자치도 제주시 1100로 2070-61",
+      "hours": "계절·탐방로별 상이 / 성판악·관음사 사전예약 확인",
+      "phone": "064-713-9950",
+      "image": "images/places/jeju-sight-08.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/6a754887-ab09-410f-ad9d-9340571e4248.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "제주관광공사 VisitJeju의 해당 관광지 공식 갤러리 실사. 운영정보는 방문 전 공식 안내 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/6a754887-ab09-410f-ad9d-9340571e4248.webp",
+      "imageDimensions": [
+        1920,
+        560
+      ],
+      "imageSha256": "5cacecc8fc0216a0697472814d4c02d788493b8601330575ae5b160189455fce"
+    },
+    {
+      "name": "우진해장국",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 제주시 서사로 11",
+      "hours": "06:00-22:00 / 휴무: 연중무휴",
+      "phone": "064-757-3393",
+      "image": "images/places/jeju-food-01.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2679127.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/39/2675139_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/39/2675139_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "우진해장국",
+      "alternateImageUrls": [
+        "http://tong.visitkorea.or.kr/cms/resource/39/2675139_image2_1.jpg"
+      ],
+      "imageDimensions": [
+        700,
+        525
+      ],
+      "imageDownloaded": true,
+      "imageSha256": "84730e9d02e3b0757cd38c8ad8876c05838396b39a1ee4ceb1d8fe90a1795b37"
+    },
+    {
+      "name": "자매국수",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 제주시 항골남길 46 (이호일동)",
+      "hours": "- 09:00~18:00- 준비시간 14:30~16:10- 마지막 주문 17:50 / 휴무: 매주 수요일 / 설·추석 연휴",
+      "phone": "064-746-2222",
+      "image": "images/places/jeju-food-02.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/3497636.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/09/3497609_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/09/3497609_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "자매국수",
+      "alternateImageUrls": [
+        "https://tong.visitkorea.or.kr/cms/resource/09/3497609_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/03/3497603_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/04/3497604_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/05/3497605_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/06/3497606_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/07/3497607_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/08/3497608_image2_1.jpg"
+      ],
+      "imageDimensions": [
+        940,
+        705
+      ],
+      "imageDownloaded": true,
+      "imageSha256": "573736da1d6eb14009793116c7be86e9fdba2acd120ffef7466803d114e32a2a"
+    },
+    {
+      "name": "올래국수",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 제주시 귀아랑길 24",
+      "hours": "08:00~15:05 (마지막 주문 15:00) / 휴무: 매주 일요일 / 설·추석 연휴",
+      "phone": "064-742-7355",
+      "image": "images/places/jeju-food-03.png",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020099",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/49c2e929-c5c8-4484-9e44-7b781c906020.webp",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/49c2e929-c5c8-4484-9e44-7b781c906020.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "올래국수",
+      "alternateImageUrls": [],
+      "imageDownloaded": true,
+      "imageDimensions": [
+        1920,
+        560
+      ],
+      "imageSha256": "7b85256c58023edc65aaeae7ff8f71c23758b7e1e0285bad69c02f62f6f6d5d9"
+    },
+    {
+      "name": "명진전복",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1282",
+      "hours": "09:30 ~ 21:30 (라스트 오더 20:30) / 휴무: 화요일",
+      "phone": "064-782-9944",
+      "image": "images/places/jeju-food-04.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2678751.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/59/2675159_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/59/2675159_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인. 종료시간은 관광공사 데이터(21:30)와 최신 리뷰(20:30)가 달라 방문 전 공식 확인 필요.",
+      "sourceTitle": "명진전복",
+      "alternateImageUrls": [
+        "http://tong.visitkorea.or.kr/cms/resource/59/2675159_image2_1.jpg"
+      ],
+      "imageDownloaded": true,
+      "imageDimensions": [
+        700,
+        466
+      ],
+      "imageSha256": "f13aab9bde0d9d5419d4a3998093dc94a7fe05ad1879d6df7e8979b1b469ec6e"
+    },
+    {
+      "name": "오는정김밥",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 서귀포시 동문동로 2",
+      "hours": "09:00~19:00 (준비시간 13:00~14:30) / 휴무: 매주 일요일",
+      "phone": "064-762-8927",
+      "image": "images/places/jeju-food-05.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2831635.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/32/2831632_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/32/2831632_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "오는정김밥",
+      "alternateImageUrls": [
+        "http://tong.visitkorea.or.kr/cms/resource/32/2831632_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/72/2934272_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/74/2934274_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/75/2934275_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/78/2934278_image2_1.jpg"
+      ],
+      "imageDimensions": [
+        800,
+        600
+      ],
+      "imageDownloaded": true,
+      "imageSha256": "98b50de99221eacc48448193961b3ce8125ae4efc1ef37b7750327fe2ce8fcbe"
+    },
+    {
+      "name": "산방식당 대정본점",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 서귀포시 대정읍 하모이삼로 62",
+      "hours": "11:00-18:00",
+      "phone": "064-794-2165",
+      "image": "images/places/jeju-food-06.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2678679.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/38/2675138_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/38/2675138_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 실제 본점 정보. 방문 전 운영정보 재확인.",
+      "sourceTitle": "산방식당",
+      "alternateImageUrls": [
+        "http://tong.visitkorea.or.kr/cms/resource/38/2675138_image2_1.jpg"
+      ],
+      "imageDownloaded": true,
+      "imageDimensions": [
+        700,
+        465
+      ],
+      "imageSha256": "1534c859ea8f0a4086145af1062714329876567b71e5b77637da64b4ca2d224c"
+    },
+    {
+      "name": "가시아방국수",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 10",
+      "hours": "- 10:00~20:30 - 마지막 주문 19:50 / 휴무: 매주 수요일",
+      "phone": "064-783-0987",
+      "image": "images/places/jeju-food-07.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/2791481.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/08/2800608_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/08/2800608_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "가시아방국수",
+      "alternateImageUrls": [
+        "http://tong.visitkorea.or.kr/cms/resource/08/2800608_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/99/2800599_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/03/2800603_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/15/2800615_image2_1.jpg",
+        "http://tong.visitkorea.or.kr/cms/resource/20/2800620_image2_1.jpg"
+      ],
+      "imageDimensions": [
+        940,
+        625
+      ],
+      "imageDownloaded": true,
+      "imageSha256": "73d513fb36bb102213c6758e8dc1d3545844a23e560144d1e8f85e0c7e6e1dc4"
+    },
+    {
+      "name": "돈사돈 본점",
+      "city": "제주",
+      "category": "맛집",
+      "address": "제주특별자치도 제주시 우평로 19",
+      "hours": "12:00~22:00 / 휴무: 매주 화요일",
+      "phone": "064-746-8989",
+      "image": "images/places/jeju-food-08.png",
+      "sourceUrl": "https://www.koreatriptips.com/dining/1827790.html",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/45/2675145_image2_1.jpg",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/45/2675145_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기반 정보·실사. 방문 전 운영정보 재확인.",
+      "sourceTitle": "돈사돈",
+      "alternateImageUrls": [
+        "https://tong.visitkorea.or.kr/cms/resource/45/2675145_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/07/1934507_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/08/1934508_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/09/1934509_image2_1.jpg",
+        "https://tong.visitkorea.or.kr/cms/resource/10/1934510_image2_1.jpg"
+      ],
+      "imageDownloaded": true,
+      "imageDimensions": [
+        700,
+        466
+      ],
+      "imageSha256": "ca7dbaf6199c683605e7e47e89e98982eff02323c6d179099d37944e66ab7733"
+    },
+    {
+      "name": "델문도",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 제주시 조천읍 조함해안로 519-10",
+      "hours": "06:00–24:00",
+      "phone": "064-702-0007",
+      "image": "images/places/jeju-cafe-01.png",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000001501",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/abee2894-dfe4-43cc-941b-6f413c8eecb7.webp",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 확인. 공개 전 사진 사용 조건 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/abee2894-dfe4-43cc-941b-6f413c8eecb7.webp",
+      "imageWidth": 1461,
+      "imageHeight": 1800,
+      "mapUrl": "https://map.naver.com/p/search/%EB%8D%B8%EB%AC%B8%EB%8F%84%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%A1%B0%EC%B2%9C%EC%9D%8D%20%EC%A1%B0%ED%95%A8%ED%95%B4%EC%95%88%EB%A1%9C%20519-10"
+    },
+    {
+      "name": "블루보틀 제주",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 제주시 구좌읍 번영로 2133-30",
+      "hours": "09:00–17:00 / 자연재해 시 변경",
+      "phone": "1533-6906 (브랜드 고객 문의 · 매장 직통 미공개)",
+      "image": "images/places/jeju-cafe-02.png",
+      "sourceUrl": "https://kr.bluebottlecoffee.com/blogs/locator/bluebottle-jeju-cafe",
+      "imageSourceUrl": "https://kr.bluebottlecoffee.com/cdn/shop/articles/BBCK_JJ_main_1600x1600_1b7924b5-5589-432d-a4b3-2e40adcdf825.jpg?v=1782866586",
+      "verifiedAt": "2026-10-13",
+      "notes": "공식 블루보틀 제주(송당) 실사. 기존 공백은 휴·폐업 안내에 따라 대체. 대설·태풍 시 운영 변동. 브랜드 공식 고객 문의 번호이며 매장 직통번호는 미공개.",
+      "imageDownloadUrl": "https://kr.bluebottlecoffee.com/cdn/shop/articles/BBCK_JJ_main_1600x1600_1b7924b5-5589-432d-a4b3-2e40adcdf825.jpg?v=1782866586",
+      "imageWidth": 1600,
+      "imageHeight": 1600,
+      "mapUrl": "https://map.naver.com/p/search/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EA%B5%AC%EC%A2%8C%EC%9D%8D%20%EB%B2%88%EC%98%81%EB%A1%9C%202133-30",
+      "additionalSources": [
+        "https://kr.bluebottlecoffee.com/pages/cafe-list",
+        "https://kr.bluebottlecoffee.com/pages/contact"
+      ]
+    },
+    {
+      "name": "카페 동백",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 제주시 조천읍 동백로 68",
+      "hours": "10:00–17:00 / 일·월요일 휴무",
+      "phone": "0507-1372-3054",
+      "image": "images/places/jeju-cafe-03.png",
+      "sourceUrl": "https://www.ktriptips.com/kor/food/2871099",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/88/2871088_image2_1.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 재배포 페이지 기준. 방문 전 매장 확인. 공개 전 사진 사용 조건 확인.",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/88/2871088_image2_1.jpg",
+      "imageWidth": 940,
+      "imageHeight": 681,
+      "mapUrl": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EB%8F%99%EB%B0%B1%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%A1%B0%EC%B2%9C%EC%9D%8D%20%EB%8F%99%EB%B0%B1%EB%A1%9C%2068"
+    },
+    {
+      "name": "오설록 티뮤지엄 티하우스",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 서귀포시 안덕면 신화역사로 15",
+      "hours": "09:00–18:00 / 하절기 09:00–19:00",
+      "phone": "0507-1418-5312",
+      "image": "images/places/jeju-cafe-04.png",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500457",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/202408/21/97ac0cec-d745-43fb-b512-0f74d721af61.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "운영정보는 방문 전 공식 확인. 공개 전 사진 사용 조건 확인.",
+      "imageDownloadUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/202408/21/97ac0cec-d745-43fb-b512-0f74d721af61.jpg",
+      "imageWidth": 1280,
+      "imageHeight": 1707,
+      "mapUrl": "https://map.naver.com/p/search/%EC%98%A4%EC%84%A4%EB%A1%9D%20%ED%8B%B0%EB%AE%A4%EC%A7%80%EC%97%84%20%ED%8B%B0%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%A0%9C%EC%A3%BC%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C%20%EC%95%88%EB%8D%95%EB%A9%B4%20%EC%8B%A0%ED%99%94%EC%97%AD%EC%82%AC%EB%A1%9C%2015",
+      "additionalSources": [
+        "https://www.osulloc.com/kr/ko/store-introduction/jeju-map"
+      ]
+    },
+    {
+      "name": "노티드 제주DT",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 제주시 연오로 5 1층",
+      "hours": "09:00–20:00",
+      "phone": "010-4925-9377",
+      "image": "images/places/jeju-cafe-05.png",
+      "sourceUrl": "https://www.knottedstore.com/shop_view/?idx=13",
+      "imageSourceUrl": "https://cdn.imweb.me/upload/S2023090509034a75f0994/c72454dd384a5.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "현재 공식 사이트의 제주DT 지점 실사·운영정보. 과거 애월 지점과 구분. 공개 전 사진 사용권 확인.",
+      "imageDownloadUrl": "https://cdn.imweb.me/upload/S2023090509034a75f0994/c72454dd384a5.jpg",
+      "imageWidth": 1800,
+      "imageHeight": 1200,
+      "mapUrl": "https://map.naver.com/p/search/%EB%85%B8%ED%8B%B0%EB%93%9C%20%EC%A0%9C%EC%A3%BCDT%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%97%B0%EC%98%A4%EB%A1%9C%205%201%EC%B8%B5"
+    },
+    {
+      "name": "인스밀",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 서귀포시 대정읍 일과대수로27번길 22",
+      "hours": "11:30–18:30 / 공식 매장 공지 재확인",
+      "phone": "0507-1352-5661",
+      "image": "images/places/jeju-cafe-06.png",
+      "sourceUrl": "https://www.insmill.com/",
+      "imageSourceUrl": "https://cdn.imweb.me/thumbnail/20210713/74bea912dc5cb.jpg",
+      "verifiedAt": "2026-10-13",
+      "notes": "영업시간은 제주관광공사 안내 기준으로 변경 가능. 공개 전 사진 사용 조건 확인.",
+      "imageDownloadUrl": "https://cdn.imweb.me/thumbnail/20210713/74bea912dc5cb.jpg",
+      "imageWidth": 1688,
+      "imageHeight": 1124,
+      "additionalSources": [
+        "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_200000000014007"
+      ],
+      "mapUrl": "https://map.naver.com/p/search/%EC%9D%B8%EC%8A%A4%EB%B0%80%20%EC%A0%9C%EC%A3%BC%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C%20%EB%8C%80%EC%A0%95%EC%9D%8D%20%EC%9D%BC%EA%B3%BC%EB%8C%80%EC%88%98%EB%A1%9C27%EB%B2%88%EA%B8%B8%2022"
+    },
+    {
+      "name": "카페 서연의집",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 서귀포시 남원읍 위미해안로 86",
+      "hours": "10:00–19:00 / 주문 마감 18:30",
+      "phone": "064-764-7894",
+      "image": "images/places/jeju-cafe-07.png",
+      "sourceUrl": "https://www.tel-co.net/cafe/spot/453",
+      "imageSourceUrl": "https://media.tel-co.net/isr/uploads/04_641f73c682.JPG?w=1400",
+      "verifiedAt": "2026-10-13",
+      "notes": "실제 서연의집 내부 바다 전망 사진. 정보는 관광공사 공공데이터 재배포·여행서비스 페이지 대조. 공개 전 사진 사용권 확인.",
+      "imageDownloadUrl": "https://media.tel-co.net/isr/uploads/04_641f73c682.JPG?w=1400",
+      "imageWidth": 612,
+      "imageHeight": 360,
+      "mapUrl": "https://map.naver.com/p/search/%EC%B9%B4%ED%8E%98%20%EC%84%9C%EC%97%B0%EC%9D%98%EC%A7%91%20%EC%A0%9C%EC%A3%BC%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C%20%EB%82%A8%EC%9B%90%EC%9D%8D%20%EC%9C%84%EB%AF%B8%ED%95%B4%EC%95%88%EB%A1%9C%2086",
+      "additionalSources": [
+        "https://kor.clubrichtour.co.kr/bbs/board.php?bo_table=datagokr_Kor&wr_id=30728"
+      ]
+    },
+    {
+      "name": "모아시",
+      "city": "제주",
+      "category": "카페",
+      "address": "제주 서귀포시 대정읍 무릉중앙로24번길 16",
+      "hours": "11:00–18:00 / 주문 마감 17:30 · 휴무는 방문 전 확인",
+      "phone": "064-794-9995",
+      "image": "images/places/jeju-cafe-08.png",
+      "sourceUrl": "https://www.ktriptips.com/kor/food/3492149",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/47/3492147_image2_1.png",
+      "verifiedAt": "2026-10-13",
+      "notes": "한국관광공사 공공데이터 기준. 일부 매장 리뷰는 목요일 휴무 안내이므로 공식 확인 필요. 공개 전 사진 사용 조건 확인.",
+      "imageDownloadUrl": "https://tong.visitkorea.or.kr/cms/resource/47/3492147_image2_1.png",
+      "imageWidth": 940,
+      "imageHeight": 776,
+      "mapUrl": "https://map.naver.com/p/search/%EB%AA%A8%EC%95%84%EC%8B%9C%20%EC%A0%9C%EC%A3%BC%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C%20%EB%8C%80%EC%A0%95%EC%9D%8D%20%EB%AC%B4%EB%A6%89%EC%A4%91%EC%95%99%EB%A1%9C24%EB%B2%88%EA%B8%B8%2016"
+    }
+  ],
+  "events": [
+    {
+      "city": "서울",
+      "name": "N서울타워",
+      "label": "전망대 · 제휴 혜택",
+      "url": "https://www.nseoultower.co.kr/global/customer/faq.asp?sch_type=04",
+      "description": "시티투어버스 가이드북 쿠폰 제시 시 전망대 10% 할인. 복지카드·국가유공자 등 대상별 혜택은 공식 FAQ에서 확인하세요.",
+      "status": "공식 혜택 확인",
+      "image": "images/events/event-01.png",
+      "imageSourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72447&fileTy=MEDIA&fileNo=3&thumbTy=L",
+      "sourceUrl": "https://english.visitseoul.net/attractions/Namsan%20Seoul%20Tower%20/ENP000036",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 800,
+      "imageHeight": 571,
+      "additionalSources": [
+        "https://www.nseoultower.co.kr/global/customer/faq.asp?sch_type=04"
+      ],
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "서울",
+      "name": "서울빛초롱축제",
+      "label": "겨울 야간 축제",
+      "url": "https://stolantern.com/",
+      "description": "청계천을 수놓는 빛 조형물 축제. 다음 개최 일정은 공식 공지를 확인하세요. 사진은 2025–2026 개최 현장입니다.",
+      "status": "다음 개최 공지 확인",
+      "image": "images/events/event-02.png",
+      "imageSourceUrl": "https://mediahub.seoul.go.kr/uploads/mediahub/2025/12/ZIavtlzQjbyjXMDmFZcusypwtBYOxryu.jpg",
+      "sourceUrl": "https://mediahub.seoul.go.kr/archives/2016521",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 1200,
+      "imageHeight": 800,
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "부산",
+      "name": "해운대블루라인파크",
+      "label": "스카이캡슐 · 대상별 할인",
+      "url": "https://www.bluelinepark.com/skyCapsuleFare.do",
+      "description": "국가유공자·65세 이상 본인 20%, 중증장애인 본인과 동반 1인 20% 할인. 현장 발권과 증빙 필요. 패키지 추가 할인 불가.",
+      "status": "공식 할인 확인",
+      "image": "images/events/event-03.png",
+      "imageSourceUrl": "https://main.bluelinepark.com/file/banner/20210721115818_97807.jpg",
+      "sourceUrl": "https://www.bluelinepark.com/",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 980,
+      "imageHeight": 480,
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "부산",
+      "name": "부산불꽃축제",
+      "label": "부산시민 10% 할인",
+      "url": "https://busanfireworks.com/bbs/board.php?bo_table=reservation",
+      "description": "2026년 11월 7일 광안리 일원. 부산시민 유료좌석 10% 할인, 1인 최대 4매. 시민 확인과 판매처 조건을 확인하세요.",
+      "status": "2026.11.07 개최 예정",
+      "image": "images/events/event-04.png",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/79/3380679_image2_1.jpg",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85020",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 940,
+      "imageHeight": 627,
+      "additionalSources": [
+        "https://www.busan.go.kr/nbtnewsBU/1752768",
+        "https://busanfireworks.com/bbs/board.php?bo_table=reservation"
+      ],
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "강릉",
+      "name": "아르떼뮤지엄 강릉",
+      "label": "전시 티켓 · 단체 혜택",
+      "url": "https://kr.artemuseum.com/gangneung",
+      "description": "VALLEY를 주제로 만나는 몰입형 미디어아트. 20명 초과 단체는 요금별 2,000원 할인 안내가 있으며 대상·예약 조건은 공식 홈페이지에서 확인하세요.",
+      "status": "공식 티켓 안내",
+      "image": "images/events/gangneung-arte.png",
+      "imageSourceUrl": "https://tong.visitkorea.or.kr/cms/resource/25/3085825_image2_1.jpg",
+      "sourceUrl": "https://data.visitkorea.or.kr/page/2804197",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 752,
+      "imageHeight": 940,
+      "additionalSources": [
+        "https://www.artemuseum.com/GANGNEUNG?external_browser_redirect=true"
+      ],
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "강릉",
+      "name": "강릉커피축제",
+      "label": "커피 문화 축제",
+      "url": "https://coffeefestival.net/default.asp",
+      "description": "2026년 10월 21–25일 강릉커피거리. 커피 체험·스탬프랠리·공연을 즐겨보세요. 일부 프로그램은 유료입니다. 사진은 지난 개최 현장입니다.",
+      "status": "2026.10.21–10.25 개최 예정",
+      "image": "images/events/event-06.png",
+      "imageSourceUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/eff62395-e989-4993-b5ab-1b1808220401_61.jpg",
+      "sourceUrl": "https://kq.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=eff62395-e989-4993-b5ab-1b1808220401",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 940,
+      "imageHeight": 626,
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "제주",
+      "name": "아쿠아플라넷 제주",
+      "label": "티켓 · 공식 프로모션",
+      "url": "https://www.aquaplanet.co.kr/jeju/index.do",
+      "description": "아쿠아리움과 오션아레나를 함께 경험하세요. 공식 홈페이지의 진행 중 이벤트·제휴 혜택과 온라인 티켓 조건을 확인할 수 있습니다.",
+      "status": "현재 공식 혜택 확인",
+      "image": "images/events/event-07.png",
+      "imageSourceUrl": "https://www.aquaplanet.co.kr/Upload/MainProgram/JEJU/KOR/20202284435618111622232_1.jpg",
+      "sourceUrl": "https://www.aquaplanet.co.kr/jeju/index.do",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 660,
+      "imageHeight": 440,
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    },
+    {
+      "city": "제주",
+      "name": "휴애리",
+      "label": "계절 꽃 축제 · 입장권",
+      "url": "https://www.hueree.com/",
+      "description": "한라산 아래 계절 꽃 정원과 자연 체험을 즐기는 공원. 꽃 개화와 행사 일정, 입장권 할인 대상은 공식 안내를 확인하세요. 사진은 휴애리 수국축제 현장입니다.",
+      "status": "시즌별 공식 안내 확인",
+      "image": "images/events/event-08.png",
+      "imageSourceUrl": "https://api.cdn.visitjeju.net/photomng/imgpath/202308/29/d8e383ae-c13c-4432-8f1b-6f3ed3e45ef7.jpg",
+      "sourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500707",
+      "verifiedAt": "2026-10-13",
+      "imageWidth": 1160,
+      "imageHeight": 773,
+      "photoNote": "사진은 해당 시설 또는 지난 행사 현장. 공개 전 출처별 사진 사용 조건 확인."
+    }
+  ]
+}
